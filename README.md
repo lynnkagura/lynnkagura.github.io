@@ -13,6 +13,6 @@ I mostly speak Simplified Chinese and English
 
 Here's my Social Media Link:
 
-
+<a rel="me" href="https://m.cmx.im/@lynn_ddlc">Mastodon</a>
 
 Follow me, plz 🥺
